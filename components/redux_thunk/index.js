@@ -20,7 +20,7 @@ export default ({ navigation }) => {
             </View>
         </View>
         <Counter/>
-        <Text style = {styles.copyright_1}>Copyright Muhammad Affan Sa'id - 120140030</Text>
+        <Text style = {styles.copyright_1}>Copyright Carin Akiela Amanda - 120140009</Text>
       </View>
    </Provider>
   );
