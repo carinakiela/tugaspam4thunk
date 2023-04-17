@@ -1,6 +1,6 @@
-let tempat = ['Papua', 'Jawa', 'Kalimantan', 'Sulawesi', 'Papus', 'NTT', 'NTB'];
-let jenisPesawat = ['Batik Air', 'Garuda', 'Speedis', 'Jet'];
-let bulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+let tempat = ['aceh', 'papua', 'Kalimantan'];
+let jenisPesawat = ['helikopter', 'Garuda'];
+let bulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei'];
 let hari = ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu', 'Minggu'];
 function makeData (x) {
   return {
