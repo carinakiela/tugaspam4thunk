@@ -58,7 +58,7 @@ const [ date, set_date ] = useState("");
       </ScrollView>
       
       <View style = { styles.footer }>
-        <Text style = { styles.copyright }>Copyright Muhammad Affan Sa'id - 120140030</Text>
+        <Text style = { styles.copyright }>Copyright Carin Akiela Amanda - 120140009</Text>
       </View>
     </View>
   );
